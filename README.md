@@ -1,1 +1,1 @@
-基于[极客猿梦导航](https://github.com/geekape/geek-navigation)实现，主要面向企业内部员工提供服务，收集了企业自研产品和一批与开发、设计类项目的专业站点。
+基于[极客猿梦导航](https://github.com/geekape/geek-navigation)实现，主要面向企业内部员工提供服务，收集了企业自研产品和一批开发设计类的专业站点。
